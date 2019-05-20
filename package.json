@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-v-000",
+  "version": "1.0.0",
+  "description": "first react lab",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zlehmann/npm-lab-v-000.git"
+  },
+  "author": "Zachary Lehmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zlehmann/npm-lab-v-000/issues"
+  },
+  "homepage": "https://github.com/zlehmann/npm-lab-v-000#readme"
+}
